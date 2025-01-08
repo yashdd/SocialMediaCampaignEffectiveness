@@ -25,3 +25,5 @@ Provisional Data Source:
 This dataset is derived from a structured social media performance data file. Additional data validation and checks will ensure its accuracy for the project.
 
 Developed diverse visualizations including heatmaps, bar charts, line graphs, scatter plots, pie charts, area charts, and box plots to derive actionable insights.
+
+Link to Video Explanation - https://drive.google.com/file/d/1XmI83TCWA9-YF4ss_twZJC4bCFp4gnEw/view?usp=drive_link
