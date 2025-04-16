@@ -1,29 +1,83 @@
-# SocialMediaCampaignEffectiveness
-Topic:
-"Social Media Campaign Effectiveness: A Comparative Analysis Across Platforms, Post Types, and Audience Demographics"
+# 📊 Social Media Campaign Effectiveness Analysis 
 
-Research Questions:
-1.	Engagement Analysis:
-•	How do different platforms (LinkedIn, Instagram, Twitter, Facebook) perform in terms of engagement rate, reach, and impressions?
-•	What is the relationship between engagement rates and the type of content (video, image, link) across platforms?
-2.	Sentiment Impact:
-•	Does sentiment (positive, neutral, negative) influence audience engagement and content performance?
-3.	Demographic Insights:
-•	How do audience age, gender, and location impact the effectiveness of social media campaigns?
-4.	Post Timing:
-•	What is the correlation between post timing and engagement metrics (likes, comments, shares)?
-5.	Campaign Performance:
-•	Which campaigns drive the highest engagement, and what attributes (platform, content type, audience demographics) contribute to their success?
+This project explores the effectiveness of social media campaigns across major platforms like LinkedIn, Instagram, Twitter, and Facebook by analyzing post types, timing, audience demographics, and sentiment. It aims to uncover actionable insights that help optimize campaign strategies for better engagement and reach.
 
-Data Description:
-The dataset includes information about social media posts across four platforms (LinkedIn, Instagram, Twitter, Facebook). It provides details such as:
-•	Post Details: Post ID, content, type (video, image, link), timestamp.
-•	Engagement Metrics: Likes, comments, shares, impressions, and engagement rates.
-•	Audience Demographics: Age, gender, location, and interests.
-•	Campaign Details: Sentiment, campaign ID, influencer ID.
-Provisional Data Source:
-This dataset is derived from a structured social media performance data file. Additional data validation and checks will ensure its accuracy for the project.
+---
 
-Developed diverse visualizations including heatmaps, bar charts, line graphs, scatter plots, pie charts, area charts, and box plots to derive actionable insights.
+## 🔍 Research Questions
 
-Link to Video Explanation - https://drive.google.com/file/d/1XmI83TCWA9-YF4ss_twZJC4bCFp4gnEw/view?usp=drive_link
+1. **Engagement Analysis**
+   - How do different platforms perform in terms of engagement rate, reach, and impressions?
+   - What is the relationship between engagement and content type (video, image, link)?
+
+2. **Sentiment Impact**
+   - Does sentiment (positive, neutral, negative) influence audience engagement?
+
+3. **Demographic Insights**
+   - How do audience age, gender, and location impact campaign effectiveness?
+
+4. **Post Timing**
+   - What’s the correlation between post timing and engagement (likes, comments, shares)?
+
+5. **Campaign Performance**
+   - Which campaigns drive the highest engagement and what attributes contribute?
+
+---
+
+## 📦 Dataset Description
+
+The dataset includes structured data across four social media platforms:
+
+- **Post Details:** Post ID, content, type (video, image, link), timestamp  
+- **Engagement Metrics:** Likes, comments, shares, impressions, engagement rate  
+- **Audience Demographics:** Age, gender, location, interests  
+- **Campaign Info:** Sentiment, campaign ID, influencer ID  
+
+> Provisional source: Internal structured file with post-campaign data. Additional validation applied.
+
+---
+
+## 📈 Visualizations & Techniques
+
+The following charts and techniques were used to explore and analyze the data:
+
+- Heatmaps
+- Bar Charts
+- Line Graphs
+- Scatter Plots
+- Pie Charts
+- Area Charts
+- Box Plots
+
+These visualizations enabled the extraction of deep insights into user behavior, content performance, and strategic recommendations.
+
+---
+
+## 📺 Demo Video
+
+Watch the project walkthrough here:  
+[![Watch the video](https://img.youtube.com/vi/xVcxcwplXHE/maxresdefault.jpg)](https://youtu.be/xVcxcwplXHE)
+
+---
+
+## 🧰 Tools & Technologies
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Tableau / Power BI (if used)
+- Jupyter Notebook
+- Excel / CSV Data Cleaning
+
+---
+
+## 📄 License
+
+This project is part of academic coursework and is for educational purposes only.
+
+---
+
+## 👤 Author
+
+**Yash Deshpande**  
+📧 yashdd10@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/yash-deshpande-70827417b)  
+🌐 [Portfolio](https://yashdd.github.io/Portfolio-Website)
